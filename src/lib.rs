@@ -6,7 +6,7 @@ pub fn raindrops(n: u32) -> String {
     }
 
     if n % 5 == 0 {
-      rainSound += "Plang;
+      rainSound += "Plang";
     }
 
     if n % 7 == 0 {
